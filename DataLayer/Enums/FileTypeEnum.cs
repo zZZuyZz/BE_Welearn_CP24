@@ -1,0 +1,13 @@
+﻿namespace DataLayer.Enums;
+
+public enum FileTypeEnum
+{
+    pdf = 1,
+    docx = 2,
+    zip = 3,
+    rar = 4,
+    png = 5,
+    jpeg = 6,
+    doc = 7,
+    txt = 9
+}
